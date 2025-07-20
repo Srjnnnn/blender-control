@@ -17,8 +17,8 @@ bl_info = {
     "description": "Advanced external control with WebSocket, AI features, templates, and geometry nodes",
     "category": "System",
     "support": "COMMUNITY",
-    "doc_url": "https://github.com/Srjnnnn/blender-control/blender-remote-control-advanced",
-    "tracker_url": "https://github.com/Srjnnnn/blender-control/blender-remote-control-advanced/issues",
+    "doc_url": "https://github.com/Srjnnnn/blender-control/blender_remote_addon",
+    "tracker_url": "https://github.com/Srjnnnn/blender-control/blender_remote_addon/issues",
 }
 
 # ============================================================================
