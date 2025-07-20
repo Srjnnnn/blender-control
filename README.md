@@ -664,4 +664,4 @@ MIT License - See LICENSE file for details
 
 **Version**: 2.0.0  
 **Blender Compatibility**: 3.3.0+  
-**Author**: Open Source Community
+**Author**: Eyüp Sercan UYGUR
